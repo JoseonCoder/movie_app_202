@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/JoseonCoder/movie_app_202.git/static/css/main.8c4e698e.chunk.css",
-    "main.js": "/JoseonCoder/movie_app_202.git/static/js/main.b1d54947.chunk.js",
-    "main.js.map": "/JoseonCoder/movie_app_202.git/static/js/main.b1d54947.chunk.js.map",
-    "runtime-main.js": "/JoseonCoder/movie_app_202.git/static/js/runtime-main.82e81a11.js",
-    "runtime-main.js.map": "/JoseonCoder/movie_app_202.git/static/js/runtime-main.82e81a11.js.map",
-    "static/js/2.f7b2e7c8.chunk.js": "/JoseonCoder/movie_app_202.git/static/js/2.f7b2e7c8.chunk.js",
-    "static/js/2.f7b2e7c8.chunk.js.map": "/JoseonCoder/movie_app_202.git/static/js/2.f7b2e7c8.chunk.js.map",
-    "index.html": "/JoseonCoder/movie_app_202.git/index.html",
-    "precache-manifest.5de041489976afab3d845412df577c54.js": "/JoseonCoder/movie_app_202.git/precache-manifest.5de041489976afab3d845412df577c54.js",
-    "service-worker.js": "/JoseonCoder/movie_app_202.git/service-worker.js",
-    "static/css/main.8c4e698e.chunk.css.map": "/JoseonCoder/movie_app_202.git/static/css/main.8c4e698e.chunk.css.map",
-    "static/js/2.f7b2e7c8.chunk.js.LICENSE": "/JoseonCoder/movie_app_202.git/static/js/2.f7b2e7c8.chunk.js.LICENSE"
+    "main.css": "/movie_app_202.git/static/css/main.8c4e698e.chunk.css",
+    "main.js": "/movie_app_202.git/static/js/main.b1d54947.chunk.js",
+    "main.js.map": "/movie_app_202.git/static/js/main.b1d54947.chunk.js.map",
+    "runtime-main.js": "/movie_app_202.git/static/js/runtime-main.d40a7e00.js",
+    "runtime-main.js.map": "/movie_app_202.git/static/js/runtime-main.d40a7e00.js.map",
+    "static/js/2.f7b2e7c8.chunk.js": "/movie_app_202.git/static/js/2.f7b2e7c8.chunk.js",
+    "static/js/2.f7b2e7c8.chunk.js.map": "/movie_app_202.git/static/js/2.f7b2e7c8.chunk.js.map",
+    "index.html": "/movie_app_202.git/index.html",
+    "precache-manifest.3d8dc876cb6a182b7e1a072a6bba2b06.js": "/movie_app_202.git/precache-manifest.3d8dc876cb6a182b7e1a072a6bba2b06.js",
+    "service-worker.js": "/movie_app_202.git/service-worker.js",
+    "static/css/main.8c4e698e.chunk.css.map": "/movie_app_202.git/static/css/main.8c4e698e.chunk.css.map",
+    "static/js/2.f7b2e7c8.chunk.js.LICENSE": "/movie_app_202.git/static/js/2.f7b2e7c8.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.82e81a11.js",
+    "static/js/runtime-main.d40a7e00.js",
     "static/js/2.f7b2e7c8.chunk.js",
     "static/css/main.8c4e698e.chunk.css",
     "static/js/main.b1d54947.chunk.js"

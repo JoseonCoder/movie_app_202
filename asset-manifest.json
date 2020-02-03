@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/movie_app_202.git/static/css/main.855e5a5e.chunk.css",
-    "main.js": "/movie_app_202.git/static/js/main.b1d54947.chunk.js",
-    "main.js.map": "/movie_app_202.git/static/js/main.b1d54947.chunk.js.map",
-    "runtime-main.js": "/movie_app_202.git/static/js/runtime-main.d40a7e00.js",
-    "runtime-main.js.map": "/movie_app_202.git/static/js/runtime-main.d40a7e00.js.map",
-    "static/js/2.f7b2e7c8.chunk.js": "/movie_app_202.git/static/js/2.f7b2e7c8.chunk.js",
-    "static/js/2.f7b2e7c8.chunk.js.map": "/movie_app_202.git/static/js/2.f7b2e7c8.chunk.js.map",
-    "index.html": "/movie_app_202.git/index.html",
-    "precache-manifest.53a551d1d10c2915b84ecfa84f781933.js": "/movie_app_202.git/precache-manifest.53a551d1d10c2915b84ecfa84f781933.js",
-    "service-worker.js": "/movie_app_202.git/service-worker.js",
-    "static/css/main.855e5a5e.chunk.css.map": "/movie_app_202.git/static/css/main.855e5a5e.chunk.css.map",
-    "static/js/2.f7b2e7c8.chunk.js.LICENSE": "/movie_app_202.git/static/js/2.f7b2e7c8.chunk.js.LICENSE"
+    "main.css": "/movie_app_202/static/css/main.e1a1a269.chunk.css",
+    "main.js": "/movie_app_202/static/js/main.b1d54947.chunk.js",
+    "main.js.map": "/movie_app_202/static/js/main.b1d54947.chunk.js.map",
+    "runtime-main.js": "/movie_app_202/static/js/runtime-main.46d24dfa.js",
+    "runtime-main.js.map": "/movie_app_202/static/js/runtime-main.46d24dfa.js.map",
+    "static/js/2.f7b2e7c8.chunk.js": "/movie_app_202/static/js/2.f7b2e7c8.chunk.js",
+    "static/js/2.f7b2e7c8.chunk.js.map": "/movie_app_202/static/js/2.f7b2e7c8.chunk.js.map",
+    "index.html": "/movie_app_202/index.html",
+    "precache-manifest.8c38c496de6349a87374ae3dec5ad636.js": "/movie_app_202/precache-manifest.8c38c496de6349a87374ae3dec5ad636.js",
+    "service-worker.js": "/movie_app_202/service-worker.js",
+    "static/css/main.e1a1a269.chunk.css.map": "/movie_app_202/static/css/main.e1a1a269.chunk.css.map",
+    "static/js/2.f7b2e7c8.chunk.js.LICENSE": "/movie_app_202/static/js/2.f7b2e7c8.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.d40a7e00.js",
+    "static/js/runtime-main.46d24dfa.js",
     "static/js/2.f7b2e7c8.chunk.js",
-    "static/css/main.855e5a5e.chunk.css",
+    "static/css/main.e1a1a269.chunk.css",
     "static/js/main.b1d54947.chunk.js"
   ]
 }
